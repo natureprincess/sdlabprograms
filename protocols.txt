@@ -1,0 +1,3 @@
+grep “udp\|idrp\|skip\|ipip” /etc/protocols&gt; favoriteprotocols.txt
+
+cat favoriteprotocols.txt

@@ -1,0 +1,11 @@
+cat > text.txt
+
+LINUX is an operating system or a kernel distributed under an open-source license. 
+Its functionality list is quite like UNIX.
+The kernel is a program at the heart of the Linux operating system that takes care of fundamental stuff, like letting hardware communicate with software.
+Linux is an operating system or a kernel which germinated as an idea in the mind of young and bright Linus Torvalds when he was a computer science student
+He used to work on the UNIX OS (proprietary software) and thought that it needed improvements
+.Being open-source, anyone with programming knowledge can modify it.
+The Linux operating systems now offer millions of programs/applications to choose from, most of them free!Once you have Linux installed you no longer need an antivirus! Linux is a highly secure system.
+ More so, there is a global development community constantly looking at ways to enhance its security. With each upgrade, the OS becomes more secure and robust.
+Cntrl+D

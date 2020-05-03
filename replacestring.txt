@@ -1,0 +1,1 @@
+ex -s -c ‘%s/operating system /os/g | x’ string.txt

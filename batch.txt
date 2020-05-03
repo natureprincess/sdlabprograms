@@ -1,0 +1,4 @@
+>batch 
+>touch hai.txt 
+>echo “hai” >hai.txt 
+>cntrl + D

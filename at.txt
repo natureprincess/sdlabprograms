@@ -1,0 +1,4 @@
+>at now + 1 minute 
+>touch hello.txt 
+Echo “hello world” > hello.txt 
+>cntrl + D
